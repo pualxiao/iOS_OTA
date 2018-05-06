@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://139.199.212.92/BlockTotp.ipa</string>
+                    <string>http://139.199.212.92/BlockTotp_debug.ipa</string>
                 </dict>
             </array>
         <key>metadata</key>
